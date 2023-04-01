@@ -514,6 +514,14 @@ a {
     height: 49px;
 }
 
+.subscribe_btn:hover {
+    background: purple;
+}
+
+.subscribe_btn:active {
+    color: black;
+}
+
 .footer_logo {
     display: flex;
     justify-content: space-between;
